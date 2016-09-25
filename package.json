@@ -1,0 +1,27 @@
+{
+    "name": "PixelsCampCalendarApi",
+    "version": "1.0.0",
+    "description": "JSON Api for PixelsCamp calendar",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/prashantpalikhe/PixelsCampCalendarApi.git"
+    },
+    "keywords": [],
+    "author": "Prashant Palikhe <prashpal09@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/prashantpalikhe/PixelsCampCalendarApi/issues"
+    },
+    "homepage": "https://github.com/prashantpalikhe/PixelsCampCalendarApi#readme",
+    "dependencies": {
+        "cors": "^2.8.1",
+        "express": "^4.14.0",
+        "ical-parser": "^1.2.0",
+        "lodash": "^4.16.1",
+        "moment": "^2.15.1"
+    }
+}
